@@ -8,6 +8,8 @@ There were articles using Neural Nets (a poorer match), search type approaches, 
 
 Sudoku is not a "hard" problems, but it can be hard for us simply due to the graph complexity as we work through a puzzle.  
 This project is a single JS file (for now anyways) which will create a Sudoku Game (puzzle) based on an array of integers passed to it, it will then solve it, print the unsolved and solved forms of the puzzle, and some basic statistics about what it took.  It turned out to be a good bit simpler than I anticipated. The code (other than the print functions) is decent, not great but decent.
+
+![Image](../sudoku-solver-terminal.png "Sudoku Solver run example!")
   
 ## A few things  
 The code is vanilla Javascript though assumes it's run from nodejs, 'node sudoku-solver.js' as it relies on the node perf libs when gathering stats.  
