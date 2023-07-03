@@ -1,5 +1,6 @@
 # SudokuSolver
-Sudoku Solver using back tracking
+Sudoku Puzzle Solver using a back tracking approach.  
+
 I recently came across several articles (medium.com) describing how to create a solver for [Sudoku](https://en.wikipedia.org/wiki/Sudoku) using Python.  
   
 One article took a [Linear Optimization/Programming](https://en.wikipedia.org/wiki/Linear_programming) approach. Using linear programming for a problem like Sudoku is tremendous overkill. However, Sudoku provided an excellent easy-to-grasp problem for introducing Linear Optimization concepts; something the author put to good use.   
